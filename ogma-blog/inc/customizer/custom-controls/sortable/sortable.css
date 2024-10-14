@@ -1,0 +1,38 @@
+/**
+ * Custom Style for Sortable Control
+ *
+ * @package Ogma Blog
+ */
+.customize-control-ogma-blog-sortable ul li {
+    padding: 8px 10px;
+    line-height: 20px;
+    border: 1px solid #ccc;
+    background: #fff;
+}
+
+.customize-control-ogma-blog-sortable ul li .dashicons.dashicons-menu {
+    float: right;
+}
+
+.customize-control-ogma-blog-sortable ul li .dashicons.visibility {
+    color: #50575e;
+    margin-right: 10px;
+}
+
+.customize-control-ogma-blog-sortable ul li .dashicons:hover{
+    color: #4abbd5;
+}
+
+.customize-control-ogma-blog-sortable ul li.invisible {
+    color: #aaa;
+    border: 1px dashed #aaa;
+}
+
+.customize-control-ogma-blog-sortable ul li.invisible .dashicons.visibility {
+    color: #aaa;
+}
+
+.customize-control-ogma-blog-sortable ul li .dashicons.dashicons-menu:hover {
+    cursor: all-scroll;
+    color: #4ABBD5;
+}

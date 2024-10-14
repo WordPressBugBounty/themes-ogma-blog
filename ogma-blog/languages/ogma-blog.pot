@@ -1,0 +1,1861 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ogma Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-03 07:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: ogma-blog"
+
+#: inc/admin/class-ogma-blog-dashboard.php:367
+msgid "$59.99"
+msgstr ""
+
+#: inc/template-tags.php:275
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:230
+#, php-format
+msgid "%1$s Color"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:44
+#, php-format
+msgid "%1$s Dashboard"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:127
+#, php-format
+msgid ""
+"%1$s is now installed and ready to use. Now that you are part of us. We have "
+"curated some important links for you to get rolling."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:72
+#, php-format
+msgid "%1$s Options"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:184
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:145
+msgid "- - Select Category - -"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:315
+msgid "01 Jan, 2023"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:316
+msgid "01 January, 2023"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:391
+#: inc/admin/class-ogma-blog-dashboard.php:416
+#: inc/admin/class-ogma-blog-dashboard.php:421
+msgid "1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:640
+msgid "10+ Arrow Icons"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:377
+msgid "11"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:636
+msgid "15+ Styles"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:386
+#: inc/admin/class-ogma-blog-dashboard.php:392
+#: inc/admin/class-ogma-blog-dashboard.php:406
+#: inc/admin/class-ogma-blog-dashboard.php:411
+msgid "2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:646
+msgid "2 More author box layout"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:643
+msgid "2 More Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:641
+msgid "2 more layouts"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:376
+#: inc/admin/class-ogma-blog-dashboard.php:417
+#: inc/admin/class-ogma-blog-dashboard.php:422
+msgid "3"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:646
+msgid "3 More Layout for related posts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:647
+msgid "3 More Page Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:645
+msgid "3 More Post Layouts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:643
+msgid "3 More Ticker Icons"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:387
+#: inc/admin/class-ogma-blog-dashboard.php:401
+msgid "4"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:644
+msgid "4 More Layouts"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error-page.php:45
+msgid "404 Error"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:296
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:407
+#: inc/admin/class-ogma-blog-dashboard.php:412
+msgid "5"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:646
+msgid "5 More Post Layouts"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:402
+msgid "600+"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:638
+msgid "950+ Google Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:473
+msgid "A - Z"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:97
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:505
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:420
+msgid "Activate Now"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:419
+msgid "Activated"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:419
+msgid "Activating"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:52
+msgid "Add \"Ogma:ABC\" widget for frontpage middle right sidebar section."
+msgstr ""
+
+#: inc/widgets/author-profile.php:21
+msgid "Add a complete information about author."
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:95
+msgid "Add New Icon"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:637
+msgid "Add unlimited social icons field."
+msgstr ""
+
+#: inc/widgets/widget-functions.php:28 inc/widgets/widget-functions.php:40
+#: inc/widgets/widget-functions.php:70
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widget-functions.php:87
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:638
+msgid "Adjustable font size"
+msgstr ""
+
+#: inc/customizer/sections/header/ads-area.php:45
+msgid "Advertisement"
+msgstr ""
+
+#: inc/customizer/sections/header/ads-area.php:69
+msgid "Advertisement Image"
+msgstr ""
+
+#: inc/template-tags.php:56 inc/template-tags.php:76
+msgid "ago"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:640
+msgid "Alignment Options"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:496
+msgid "All"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:119
+msgid "Applied to posts thumbanail listed in archive pages."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:405
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:68
+msgid "Archive Page Style"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:45
+msgid "Archive Pages"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:92
+msgid "Archive/Blog Sidebar Layout"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:297
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:133
+msgid "Arrow 1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:137
+msgid "Arrow 2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:141
+msgid "Arrow 3"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:93
+msgid "Arrow Icon"
+msgstr ""
+
+#: inc/widgets/author-profile.php:56
+msgid "Author Bio"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:116
+msgid "Author Box"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:415
+msgid "Author Box Layout"
+msgstr ""
+
+#: inc/widgets/author-profile.php:62
+msgid "Author Link"
+msgstr ""
+
+#: inc/widgets/author-profile.php:49 inc/widgets/author-profile.php:52
+msgid "Author Name"
+msgstr ""
+
+#: inc/widgets/author-profile.php:43
+msgid "Author Profile Picture"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:135
+msgid "Back To Home"
+msgstr ""
+
+#: inc/customizer/override-defaults.php:32
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:522
+#: inc/customizer/sections/frontpage/banner.php:212
+#: inc/customizer/sections/header/main-area.php:339
+#: inc/customizer/sections/header/top-area.php:247
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:523
+#: inc/customizer/sections/frontpage/banner.php:237
+#: inc/customizer/sections/header/main-area.php:364
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:314
+msgid "Background Type"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:187
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:168
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:66
+msgid "Base Colors"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:647
+msgid "Blank Page Option"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:63
+msgid "Body"
+msgstr ""
+
+#: inc/template-functions.php:516
+#: inc/customizer/custom-controls/typography/class-typography-control.php:309
+#: inc/customizer/custom-controls/typography/class-typography-control.php:316
+msgid "Bold 700"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:99
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:45
+msgid "Bottom Area"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:31
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/sections/general/site-style.php:147
+msgid "Boxed Container Width"
+msgstr ""
+
+#: inc/customizer/sections/general/breadcrumb.php:45
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer/sections/general/breadcrumb.php:88
+msgid "Breadcrumb Types"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:294
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:113
+msgid "Breaking News"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:293
+msgid "Browse:"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:440
+msgid "Browser Compatibility"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:647
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error-page.php:116
+msgid "Button Label"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:301 inc/customizer/customizer.php:50
+msgid "Buy Now"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:453
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:355
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:205
+msgid "Categories Colors"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:100
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:101
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:94
+msgid "Choose required arrow from available lists."
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:102
+msgid "Choose social media icon."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:546
+msgid "Classic"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:306
+msgid "Click to import demo"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:203
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:409
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:639
+#: inc/customizer/customizer-helper.php:640
+msgid "Color Option"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:642
+#: inc/customizer/customizer-helper.php:643
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:636
+msgid "Color options"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:45
+msgid "Colors"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:342
+msgid "Comment"
+msgstr ""
+
+#. %s is the page number.
+#: inc/ogma-blog-class-breadcrumb.php:303
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/class-ogma-blog-notice.php:124
+msgid "Congratulations!"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:196
+#: inc/admin/class-ogma-blog-dashboard.php:201
+msgid "Contact Support"
+msgstr ""
+
+#: inc/customizer/sections/general/site-style.php:69
+msgid "Container Layout"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/partials/post/content.php:28
+#: template-parts/partials/post/content.php:46
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:141
+msgid "Copyright &copy; ogma blog {year}"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:93
+msgid "Copyright Content"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:218
+msgid "Custom Button"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:242
+msgid "Custom Button Label"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:265
+msgid "Custom Button Link"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:430
+msgid "Custom Container Size"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:152
+msgid "Customize your site"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:152
+msgid "Customizer quick link"
+msgstr ""
+
+#: inc/customizer/extend-customizer/class-customize-section.php:57
+msgid "Customizing"
+msgstr ""
+
+#: inc/customizer/extend-customizer/class-customize-section.php:55
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:819
+#: inc/ogma-blog-class-breadcrumb.php:1248
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:165
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:141
+msgid "Date Format"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:500
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:252
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:208
+msgid "Default by WordPress"
+msgstr ""
+
+#: inc/customizer/custom-controls/repeater/class-repeater-control.php:202
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:164
+msgid "Demo"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:308
+msgid "Demo importer plugin is not installed or activated"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:290
+#: inc/customizer/customizer-helper.php:352
+#: inc/customizer/customizer-helper.php:444
+#: inc/customizer/sections/header/site-identity.php:64
+msgid "Design"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:636
+#: inc/customizer/customizer-helper.php:637
+#: inc/customizer/customizer-helper.php:639
+#: inc/customizer/customizer-helper.php:640
+msgid "Device visibility"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:645
+msgid "Different Pagination Types"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:121
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/widgets/latest-posts.php:21
+msgid "Display latest posts in various layouts."
+msgstr ""
+
+#: inc/widgets/trending-posts.php:21
+msgid "Display trending posts in various layouts."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:174
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:148
+msgid "Done!"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:122 template-parts/content-page.php:44
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:93
+msgid "Enable archive page title prefix."
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:140
+msgid "Enable author box"
+msgstr ""
+
+#: inc/customizer/sections/general/breadcrumb.php:69
+msgid "Enable Breadcrumb Trial"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:117
+msgid "Enable Date - Time"
+msgstr ""
+
+#: inc/customizer/sections/footer/bottom-area.php:69
+msgid "Enable footer bottom area."
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:69
+msgid "Enable footer main area."
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:93
+msgid "Enable Header Sticky"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error-page.php:93
+msgid "Enable homepage button"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:69
+msgid "Enable Menu Description"
+msgstr ""
+
+#: inc/customizer/sections/header/ticker.php:69
+msgid "Enable News Ticker"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:144
+msgid "Enable Posts Reading Time."
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:69
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/archive.php:117
+msgid "Enable read more."
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:187
+msgid "Enable related posts"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:69
+msgid "Enable Scroll Top"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/error-page.php:69
+msgid "Enable Search box"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:141
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:69
+msgid "Enable Sidebar Sticky"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:117
+msgid "Enable site mode switcher"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:192
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:165
+msgid "Enable sticky sidebar toggle"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:93
+msgid "Enable Top Area"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:167
+msgid "Enable Top Menu"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:107
+msgid "Enter social media url."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:641
+msgid "Extra option for Custom Buttom"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:644
+msgid "Extra option for slider control."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:646
+msgid "Extra options for post navigation"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:646
+msgid "Extra options for related posts section"
+msgstr ""
+
+#: inc/template-functions.php:520
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/template-functions.php:496
+msgid "Extra-Light 200"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:568
+msgid "F"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:390
+msgid "Featured Section Layout"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:358
+msgid "Features"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:569
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:638
+msgid "Font Color Option"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:63
+msgid "Font Decoration"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:59
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:61
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:62
+msgid "Font Transform"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:60
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:60
+msgid "Footer"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:85
+#, php-format
+msgid "Footer Column %d"
+msgstr ""
+
+#: inc/customizer/register-panels-sections.php:110
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:436
+msgid "Forum"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:437
+msgid "Forum + Emails/Support Ticket"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:366
+msgid "Free"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:90
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:171
+msgid "Front Page Section"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:50
+msgid "Frontpage - Middle Right Sidebar"
+msgstr ""
+
+#: inc/customizer/register-panels-sections.php:78
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:27
+msgid "Full Width"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:445
+msgid "GDPR Compatible"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:279
+#: inc/customizer/customizer-helper.php:338
+#: inc/customizer/customizer-helper.php:434
+#: inc/customizer/sections/header/site-identity.php:53
+msgid "General"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:139
+msgid "General Info"
+msgstr ""
+
+#: inc/customizer/register-panels-sections.php:46
+msgid "General Settings"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:450
+msgid "Get access to all Pro features and power-up your website"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:149
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:225
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:225
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:188
+msgid "Go to doc"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:400
+msgid "Google Fonts Options"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:547
+msgid "Grid"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:385
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/register-panels-sections.php:62
+msgid "Header Settings"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:68
+msgid "Header Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:149
+msgid "Heading"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:295
+msgid "Home"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:801
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:231
+msgid "Hover Effect One"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:642
+msgid "Hover Effects"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://ogma.mysterythemes.com/ogma-blog"
+msgstr ""
+
+#: template-parts/footer/bottom-area.php:32
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:564
+msgid "I"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:410
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/sections/header/ads-area.php:96
+msgid "Image Url"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:312
+msgid "Import"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:311
+#, php-format
+msgid "Import %1$s"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:370
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:292
+msgid "Imported"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:291
+#, php-format
+msgid "Imported %1$s"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:565
+msgid "Improvement"
+msgstr ""
+
+#: inc/template-functions.php:467 inc/template-functions.php:528
+#: inc/customizer/custom-controls/typography/class-typography-control.php:298
+#: inc/customizer/custom-controls/typography/class-typography-control.php:307
+#: inc/customizer/custom-controls/typography/class-typography-control.php:314
+#: inc/customizer/custom-controls/typography/class-typography-control.php:332
+#: inc/customizer/custom-controls/typography/class-typography-control.php:353
+#: inc/customizer/custom-controls/typography/class-typography-control.php:375
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/register-panels-sections.php:94
+msgid "Innerpage Settings"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:174
+msgid "Innerpages Settings"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:413
+#: inc/admin/class-ogma-blog-dashboard.php:495
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:412
+msgid "Installed & Activated"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:412
+msgid "Installing & Activating"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:334
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:501
+msgid "Last Month"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:499
+msgid "Last Week"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:37 inc/widgets/ogma-blog-widgets-helper.php:321
+#: inc/customizer/custom-controls/dropdown-categories/class-dropdown-categories-control.php:54
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:381
+#: inc/customizer/customizer-helper.php:570
+#: inc/customizer/customizer-helper.php:600
+msgid "Layout 1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:385
+#: inc/customizer/customizer-helper.php:574
+#: inc/customizer/customizer-helper.php:604
+#: inc/customizer/customizer-helper.php:608
+#: inc/customizer/customizer-helper.php:612
+msgid "Layout 2"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:296
+msgid "Layout One"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:300
+msgid "Layout Two"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:123
+msgid "Leave us a reivew"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:95 inc/widgets/widget-functions.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:164
+msgid "Light"
+msgstr ""
+
+#: inc/template-functions.php:500
+msgid "Light 300"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:377
+msgid "Line-through"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:135
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:159
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:548
+msgid "List"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:111
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:354
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:45
+#: inc/customizer/sections/header/main-area.php:45
+msgid "Main Area"
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:290
+msgid "Main Area Layout"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:45
+msgid "Main Banner"
+msgstr ""
+
+#: inc/customizer/sections/general/site-style.php:116
+msgid "Main Container Width"
+msgstr ""
+
+#: inc/customizer/sections/general/performance.php:92
+msgid "Make a website schema ready."
+msgstr ""
+
+#: inc/customizer/sections/header/main-area.php:192
+msgid "Manage sidebar from here"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:220
+msgid "Manage Social Icons"
+msgstr ""
+
+#: inc/template-functions.php:508
+msgid "Medium 500"
+msgstr ""
+
+#: inc/template-tags.php:270
+msgid "min read"
+msgstr ""
+
+#: inc/template-tags.php:272
+msgid "mins read"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/ogma-blog-class-breadcrumb.php:305
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:767
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:784
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:818
+#: inc/ogma-blog-class-breadcrumb.php:874
+#: inc/ogma-blog-class-breadcrumb.php:1244
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:264
+#: inc/customizer/sections/general/breadcrumb.php:113
+#: inc/customizer/sections/general/scroll-top.php:119
+#: inc/customizer/sections/header/main-area.php:391
+#: inc/customizer/sections/header/ticker.php:142
+#: inc/customizer/sections/innerpage/archive.php:140
+#: inc/customizer/sections/innerpage/error-page.php:140
+#: inc/customizer/sections/innerpage/posts.php:234
+msgid "More Features with Ogma Pro"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:121
+#: inc/customizer/sections/general/social-icon.php:134
+msgid "More features with Ogma Pro"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:105
+msgid "More Features With Pro"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:637
+msgid "More icons with official color."
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:240
+msgid "More Options with Ogma Pro"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:92
+msgid "More options with Ogma Pro"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:643
+#: inc/customizer/customizer-helper.php:644
+msgid "Multiple Categories Option"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:418
+msgid "Mystery Themes Demo Importer Plugin is installed but not activated!"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:411
+msgid "Mystery Themes Demo Importer Plugin is not installed!"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:560
+msgid "N"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:253
+msgid "NavXT"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:561
+msgid "New"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:471
+msgid "Newest - Oldest"
+msgstr ""
+
+#: inc/customizer/sections/header/ticker.php:45
+msgid "News Ticker"
+msgstr ""
+
+#: single.php:47
+msgid "Next:"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:266
+msgid "No demos are configured for this theme, please contact the theme author"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:217
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:103
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:107
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:50 inc/widgets/trending-posts.php:50
+msgid "No. of posts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:230
+#: inc/customizer/customizer-helper.php:408
+msgid "None"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:333
+msgid "Normal"
+msgstr ""
+
+#: inc/template-functions.php:504
+#: inc/customizer/custom-controls/typography/class-typography-control.php:308
+#: inc/customizer/custom-controls/typography/class-typography-control.php:315
+msgid "Normal 400"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/class-ogma-blog-dashboard.php:359
+msgid "Ogma Blog"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ogma Blog is a blogging WordPress theme with a one-click demo import feature "
+"which is a highly versatile and user-friendly theme explicitly designed for "
+"blog websites, and content-heavy blogs. It offers a range of advanced "
+"features and customization options to help you create a professional and "
+"engaging online publication. It offers Google fonts, text, and categories "
+"color options and layout options for Header, Single Posts, Related Posts, "
+"and Archives Posts. It has 8 Widget areas including one sticky sidebar "
+"enabled from the primary header. It has all the necessary features like "
+"WooCommerce Compatibility, RTL ready, Gutenberg, Elementor compatibility, "
+"GDPR compliant, and many more. This theme is optimized for search engines, "
+"ensuring your content is easily discoverable by search engines like Google. "
+"This helps to drive organic traffic to your website and increase your online "
+"visibility. You can check demos here which can be easily imported by the "
+"Mystery Themes Demo Importer plugin. Also, You can check Demo here:https:"
+"//ogma.mysterythemes.com/demos/ogma-blog/ &amp; Documentation here: https:"
+"//docs.mysterythemes.com/ogma/"
+msgstr ""
+
+#: inc/widgets/author-profile.php:24
+msgid "OGMA BLOG: Author Profile"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:24
+msgid "OGMA BLOG: Latest Posts"
+msgstr ""
+
+#: inc/widgets/trending-posts.php:24
+msgid "OGMA BLOG: Trending Posts"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:360 inc/customizer/customizer.php:49
+msgid "Ogma Pro"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:472
+msgid "Oldest - Newest"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:69
+msgid "Open links in new tab"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:169
+#: inc/admin/class-ogma-blog-notice.php:179
+msgid "opens in a new tab"
+msgstr ""
+
+#. %s is the page number.
+#: inc/ogma-blog-class-breadcrumb.php:301
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:186
+msgid "Pages Sidebar Layout"
+msgstr ""
+
+#: template-parts/content-page.php:30
+#: template-parts/partials/post/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/sections/general/performance.php:45
+msgid "Performance"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:95
+msgid "Plugin"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:83
+msgid "Plugin installed successfully"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:108
+msgid "Plugin Successfully Activated."
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:645
+#: inc/customizer/customizer-helper.php:646
+msgid "Post Element/Meta Re-Order."
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:68
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:45
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/trending-posts.php:43
+#: inc/customizer/sections/frontpage/banner.php:163
+#: inc/customizer/sections/header/ticker.php:117
+msgid "Posts Date Filter"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:93
+msgid "Posts Date Format"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:94
+msgid "Posts date format applied to single and archive pages."
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:68
+msgid "Posts Date Style"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:92
+msgid "Posts Layout"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:139
+msgid "Posts Order By"
+msgstr ""
+
+#: inc/widgets/latest-posts.php:43
+msgid "Posts Query Filter"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:139
+msgid "Posts Sidebar Layout"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:375
+msgid "Pre Loaders Layouts"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:45
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/sections/general/preloader.php:93
+msgid "Preloader Layout"
+msgstr ""
+
+#: single.php:46
+msgid "Previous:"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:365
+msgid "Price"
+msgstr ""
+
+#: functions.php:59
+msgid "Primary"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:87
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/sections/header/menu.php:45
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:148
+msgid "Processing"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: template-parts/footer/bottom-area.php:35
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:186
+msgid "Published date"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:300
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:475
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:322
+msgid "Random Posts"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:255
+msgid "Rank Math"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-notice.php:179
+msgid "Read full documentation"
+msgstr ""
+
+#: template-parts/partials/post/read-more.php:15
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:485
+msgid "Recommended Free Plugins"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:131
+#: inc/customizer/sections/innerpage/posts.php:163
+msgid "Related Posts"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:420
+msgid "Related Posts Layout"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:585
+#, php-format
+msgid "Released on: %1$s"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:224
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:380
+msgid "Repeater Slider"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:222
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:222
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:91
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/general/scroll-top.php:45
+msgid "Scroll Top"
+msgstr ""
+
+#. %s: search query.
+#: search.php:35
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: inc/ogma-blog-class-breadcrumb.php:299
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:210
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/sections/general/typography.php:130
+#: inc/customizer/sections/general/typography.php:216
+msgid "Select how you want your body fonts to appear."
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:225
+msgid "Select Image"
+msgstr ""
+
+#: inc/template-functions.php:512
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/customizer/sections/general/performance.php:68
+msgid "SEO"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:35
+msgid "Separate"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:157
+msgid "Setup site logo"
+msgstr ""
+
+#: inc/widgets/widget-functions.php:26
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/general/sidebar.php:45
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:410
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer/sections/innerpage/posts.php:45
+msgid "Single Posts"
+msgstr ""
+
+#: inc/customizer/sections/general/site-style.php:178
+msgid "Site Mode"
+msgstr ""
+
+#: inc/template-functions.php:363
+msgid "site mode button"
+msgstr ""
+
+#: inc/customizer/sections/general/site-style.php:45
+msgid "Site Style"
+msgstr ""
+
+#: header.php:40
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:116
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/sections/frontpage/banner.php:92
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:101
+msgid "Social Icon"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:160
+#: inc/customizer/sections/general/social-icon.php:45
+#: inc/customizer/sections/general/social-icon.php:93
+#: inc/customizer/sections/general/social-icon.php:94
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/sections/general/social-icon.php:106
+msgid "Social Link URL"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:27
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:85
+#: inc/admin/class-ogma-blog-notice.php:169
+msgid "Stater Sites"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:59
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:63
+msgid "Style 2"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:67
+msgid "Style 3"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:126
+msgid "Submit a review"
+msgstr ""
+
+#: inc/customizer/customizer-stater.php:101
+msgid "Subscribe"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:435
+msgid "Support"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:572
+msgid "T"
+msgstr ""
+
+#: inc/widgets/ogma-blog-widgets-helper.php:341
+msgid "Tag"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:114
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/customizer/sections/general/colors.php:111
+msgid "Text Color"
+msgstr ""
+
+#: 404.php:31
+msgid ""
+"The page you are looking for doesn’t exist. It may have been moved or "
+"removed. Please try searching for some other page."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:183
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:209
+msgid "Theme Format One"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: template-parts/footer/bottom-area.php:41
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:486
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: inc/template-functions.php:492
+msgid "Thin 100"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:500
+msgid "This Month"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:498
+msgid "This Week"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:118
+msgid "Thumbnail Hover Effect"
+msgstr ""
+
+#: inc/customizer/sections/header/ticker.php:93
+msgid "Ticker Label"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:497
+msgid "Today"
+msgstr ""
+
+#: inc/customizer/sections/header/top-area.php:45
+msgid "Top Area"
+msgstr ""
+
+#: functions.php:58
+msgid "Top Header"
+msgstr ""
+
+#: inc/widgets/trending-posts.php:37
+msgid "Trending Posts"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:209
+msgid "Tutorial"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:573
+msgid "Tweak"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:163
+#: inc/customizer/sections/general/typography.php:45
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:639
+msgid "Typography Option"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:395
+#: inc/customizer/customizer-helper.php:642
+msgid "Typography Options"
+msgstr ""
+
+#: inc/template-functions.php:524
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:65
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:376
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:187
+msgid "Updated date"
+msgstr ""
+
+#: inc/customizer/custom-controls/upgrade/class-upgrade-control.php:83
+msgid "upgrade to pro"
+msgstr ""
+
+#: inc/customizer/custom-controls/typography/class-typography-control.php:356
+msgid "Uppercase"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:522
+#, php-format
+msgid "Version %1$s"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:73
+#: inc/admin/class-ogma-blog-dashboard.php:584
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:319
+msgid "View Demo"
+msgstr ""
+
+#: inc/woocommerce.php:180
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/partials/post/author-box.php:56
+msgid "Website"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/ogma-blog-class-breadcrumb.php:307
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:847
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:80
+msgid "Welcome"
+msgstr ""
+
+#: inc/customizer/sections/general/posts.php:69
+msgid "Whether to show date published or modified date."
+msgstr ""
+
+#: inc/customizer/sections/footer/main-area.php:93
+msgid "Widget Area Layout"
+msgstr ""
+
+#: inc/widgets/author-profile.php:36 inc/widgets/author-profile.php:39
+#: inc/widgets/latest-posts.php:36 inc/widgets/latest-posts.php:39
+#: inc/widgets/trending-posts.php:36 inc/widgets/trending-posts.php:39
+msgid "Widget Title"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:425
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-dashboard.php:214
+msgid "WP Tutorials"
+msgstr ""
+
+#: inc/ogma-blog-class-breadcrumb.php:817
+#: inc/ogma-blog-class-breadcrumb.php:846
+#: inc/ogma-blog-class-breadcrumb.php:873
+#: inc/ogma-blog-class-breadcrumb.php:900
+#: inc/ogma-blog-class-breadcrumb.php:1240
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:254
+msgid "Yoast SEO"
+msgstr ""
+
+#: inc/admin/class-ogma-blog-admin.php:407
+msgid "You can import available demos now!"
+msgstr ""
+
+#: inc/customizer/customizer-helper.php:474
+msgid "Z - A"
+msgstr ""

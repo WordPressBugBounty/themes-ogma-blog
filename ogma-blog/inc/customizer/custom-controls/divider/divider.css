@@ -1,0 +1,47 @@
+/**
+ * Custom Style for Divider Control
+ *
+ * @package Ogma Blog
+ */
+ 
+.customize-control-ogma-blog-divider {
+    hr {
+        margin-top: 12px;
+    }
+    .customize-control-title {
+        font-size: 15px;
+        margin: 1em 0 0.2em;
+    }
+}
+
+.customize-control-ogma-blog-divider {
+    background-color: #f5f5f5;
+    display: block;
+    padding: 6px 14px;
+    margin: 0;
+    border-width: 1px 0;
+    border-style: solid;
+    border-color: #dddddd;
+    line-height: 1;
+    margin-top: 15px;
+}
+
+.customize-control-ogma-blog-divider {
+    background: #fcfcfc;
+    margin: 10px 0 20px;
+    width: 90%;
+    border: none;
+    padding: 1px 13px;
+}
+
+.customize-control-ogma-blog-divider {
+    background: none;
+    padding: 0;
+    width: 100%;
+}
+
+.customize-control-ogma-blog-divider hr {
+    border-top: none;
+    border-bottom: 1px dashed #979797;
+    margin: 0;
+}
