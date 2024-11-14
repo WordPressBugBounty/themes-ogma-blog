@@ -1,3 +1,8 @@
+== 1.1.6 : 2024-11-14 ==
+-Imp: Post title and content responsive font size improvised.
+-Fix: Post title margin issue fixed.
+-Fix: Customizer Fixes done in WordPress 6.7
+
 == 1.1.5 : 2024-09-29 ==
 -Imp: Ajax live search dark mode css tweaks done.
 -Fix: Tablet devices sidebar design issue fixed.

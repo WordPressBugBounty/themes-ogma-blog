@@ -21,7 +21,7 @@
   }
 
   .ogma-blog-site-layout--boxed .ogma-blog-container {
-      padding: 0 20px;
+    padding: 0 20px;
   }
 
 }
@@ -184,7 +184,8 @@
   .ogma-blog-site-layout--separate #left-secondary .widget,
   .home.blog.ogma-blog-site-layout--separate #left-secondary .widget,
   .ogma-blog-site-layout--separate .breadcrumbs,
-  #secondary, .home.blog #secondary {
+  #secondary,
+  .home.blog #secondary {
     float: none;
     width: 100%;
     margin-left: 0 !important;
@@ -352,6 +353,26 @@
 
   .error-404.not-found {
     width: 100%;
+  }
+
+  .archive-content-wrapper .entry-content {
+    margin: 10px 0 10px;
+  }
+
+  .ogma-blog-post-content-wrap .entry-title a {
+    font-size: 22px !important;
+    line-height: 1.5;
+    display: block;
+  }
+
+  .single .ogma-blog-post-content-wrap .entry-title {
+    font-size: 26px;
+  }
+
+  .page-content,
+  .entry-content,
+  .entry-summary {
+    font-size: 16px;
   }
 
 }

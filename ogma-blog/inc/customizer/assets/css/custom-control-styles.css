@@ -1646,6 +1646,10 @@ button.ogma-blog-repeater-add-control-field {
   background: linear-gradient(#1FA3E8, #1FA3E8);
 }
 
+#accordion-section-ogma_blog_theme_upsell .accordion-section-title::after {
+	display: none;
+}
+
 /*--------------------------
 	Extra
 --------------------------*/
@@ -1735,4 +1739,8 @@ button.ogma-blog-repeater-add-control-field {
 
 .customize-control-ogma-blog-buttonset .buttonset .switch-input:checked+.switch-label {
   background: #4abbd5;
+}
+
+.accordion-section-title {
+	overflow-X: hidden;
 }
