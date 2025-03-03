@@ -551,6 +551,16 @@ if ( ! function_exists( 'ogma_blog_minify_css' ) ) {
 
 			$ogma_blog_get_font_list 	= get_option( 'ogma_blog_google_font' );
 
+			if ( empty( $ogma_blog_get_font_list ) ) {
+	            $query_args = array(
+	                'family' => urlencode( 'Roboto' ),
+	                'subset' => urlencode( 'latin,cyrillic-ext,greek-ext,greek,vietnamese,latin-ext,cyrillic,khmer,devanagari,arabic,hebrew,telugu' )
+	            );
+
+	            $google_fonts_url = add_query_arg( $query_args, 'https://fonts.googleapis.com/css' );
+	            return $google_fonts_url;
+	        }
+
 		    $ogma_blog_body_font_family   	= ogma_blog_get_customizer_option_value( 'ogma_blog_body_font_family' );
 		    $ogma_blog_body_font_weight   	= implode( ',', $ogma_blog_get_font_list[$ogma_blog_body_font_family]['0'] );
 		    $body_typo_combo		= $ogma_blog_body_font_family.":".$ogma_blog_body_font_weight;
