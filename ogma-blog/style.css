@@ -4,7 +4,7 @@ Theme URI:    https://ogma.mysterythemes.com/ogma-blog
 Author:       Mystery Themes
 Author URI:   https://mysterythemes.com
 Description:  Ogma Blog is a blogging WordPress theme with a one-click demo import feature which is a highly versatile and user-friendly theme explicitly designed for blog websites, and content-heavy blogs. It offers a range of advanced features and customization options to help you create a professional and engaging online publication. It offers Google fonts, text, and categories color options and layout options for Header, Single Posts, Related Posts, and Archives Posts. It has 8 Widget areas including one sticky sidebar enabled from the primary header. It has all the necessary features like WooCommerce Compatibility, RTL ready, Gutenberg, Elementor compatibility, GDPR compliant, and many more. This theme is optimized for search engines, ensuring your content is easily discoverable by search engines like Google. This helps to drive organic traffic to your website and increase your online visibility. You can check demos here which can be easily imported by the Mystery Themes Demo Importer plugin. Also, You can check Demo here:https://ogma.mysterythemes.com/demos/ogma-blog/ , Documentation here: https://docs.mysterythemes.com/ogma/ & Video tutorial here: https://youtu.be/FpRpOJDk-2E
-Version:      1.1.6
+Version:      1.1.7
 Tested up to: 6.7
 Requires PHP: 7.2
 License:      GNU General Public License v2 or later
@@ -3918,6 +3918,11 @@ Single Post Layout CSS
 #ogma-blog-scrollup:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   line-height: 52px;
+}
+
+.search-no-results #primary .search-field{
+  width:88%;
+  height:45px;
 }
 
 /*--------------------------------------------------------------

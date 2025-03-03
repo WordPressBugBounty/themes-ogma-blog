@@ -64,11 +64,11 @@ do_action( 'ogma_blog_before_page_post_content' );
 
 					the_posts_pagination();
 
+					echo '</div><!-- archive-content-wrapper -->';
+
 				else :
 
 					get_template_part( 'template-parts/content', 'none' );
-
-				echo '</div><!-- archive-content-wrapper ->';
 
 				endif;
 

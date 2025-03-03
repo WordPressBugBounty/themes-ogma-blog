@@ -1,3 +1,7 @@
+== 1.1.7 : 2025-03-03 ==
+-Imp: Search page design issue solved.
+-Fix: Design issue fixed.
+
 == 1.1.6 : 2024-11-14 ==
 -Imp: Post title and content responsive font size improvised.
 -Fix: Post title margin issue fixed.
